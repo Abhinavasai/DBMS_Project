@@ -1,6 +1,5 @@
 # DBMS_Project
 
-JAVA PROJECT 
 
 Project Name :- Online Groceries Portal
 
